@@ -1,3 +1,5 @@
 Praktek Praktikum 10 RPL tentang Git
 
 Tambah BARU GES
+
+Membatalkan Perubahan File yang Sudah dalam Kondisi Commited
